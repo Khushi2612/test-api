@@ -32,6 +32,6 @@ public class OrderDetails {
     }
 
     public void setUserMobile(String userMobile) {
-        this.userMobile = userMobile;
+        this.userMobile = userMobile; //This is user mobile no.
     }
 }
