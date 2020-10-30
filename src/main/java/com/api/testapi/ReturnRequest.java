@@ -13,4 +13,5 @@ public class ReturnRequest {
     public void setReturnMethod(String returnMethod) {
         this.returnMethod = returnMethod;
     }
+    //update pojo
 }
